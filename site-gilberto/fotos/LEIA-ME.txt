@@ -1,0 +1,4 @@
+Coloque aqui as duas fotos, com EXATAMENTE estes nomes:
+  carro.jpg       (foto do carro - com a placa BORRADA antes de subir)
+  motorista.jpg   (foto do Gilberto)
+Tamanho recomendado: 750x1000 px, JPG, até ~300 KB cada.
